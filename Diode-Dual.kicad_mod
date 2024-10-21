@@ -68,26 +68,6 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1.65 0)
-		(end -3.9 0)
-		(stroke
-			(width 0.4)
-			(type default)
-		)
-		(layer "F.Cu")
-		(uuid "fb6d63ad-2dcb-474d-a3a8-39cfa29c4060")
-	)
-	(fp_line
-		(start 1.65 0)
-		(end 3.9 0)
-		(stroke
-			(width 0.4)
-			(type default)
-		)
-		(layer "F.Cu")
-		(uuid "d66cea57-96c6-4078-af56-9a5258c962f8")
-	)
-	(fp_line
 		(start -2.36 -1)
 		(end -2.36 1)
 		(stroke
